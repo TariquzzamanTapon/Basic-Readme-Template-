@@ -98,7 +98,7 @@ https://facebook.com
 |Tarif Hasan|tariquzzaman.tapon@gmail.com|
 |Maruf Hasan|maruf.hasan@gmail.com|
 |Reshad Hasan|reshad.hasan@gmail.com|
-|Takin Ahmed|taski@gmail.com|
+|Takin Ahmed|taskin@gmail.com|
   
   
 </br>
